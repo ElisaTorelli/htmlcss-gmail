@@ -22,6 +22,7 @@ body{
 .gmail-logo{
     height: 70px;
     vertical-align: middle;
+    margin-right: 10px;
 }
 
 header{
@@ -34,6 +35,7 @@ header{
 
 hr{
     border: 2px solid #9984D4;
+    margin-bottom: 20px;
 }
 
 input{
@@ -46,11 +48,28 @@ h2{
     font-size: 15px;
 }
 
-span{
+.number{
     display: inline-block;
     background-color: #9984D4;
     border-radius: 50%;
     color: white;
     margin: 8px;
     padding: 10px;
+}
+
+/* MESSAGES LIST SECTION */
+.gray-message-list-1{
+    background-color: lightgray;
+}
+
+
+/* LAST SECTION */
+.last-section{
+    margin-top: 20px;
+}
+
+.footer-section{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 80px;
 }
