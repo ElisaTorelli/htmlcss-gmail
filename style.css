@@ -1,0 +1,36 @@
+/* GENERAL SETTINGS */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #9984D4;
+}
+
+/* CONTAINER */
+.container{
+    width: 70%;
+    background-color: white;
+    margin: 48px auto;
+}
+
+/* GMAIL LOGO & TEXT */
+.gmail-logo{
+    height: 48px;
+    vertical-align: middle;
+}
+
+header{
+    display: inline-block;
+    line-height: 48px;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+hr{
+    color: #9984D4;
+    height: 15px;
+}
