@@ -1,75 +1,75 @@
 /* GENERAL SETTINGS */
 *{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
 }
 
 body{
-    background-color: #9984D4;
+  background-color: #9984D4;
 }
 
 /* CONTAINER */
 .container{
-    width: 60%;
-    background-color: white;
-    margin: 48px auto;
-    padding: 20px;
+  width: 60%;
+  background-color: white;
+  margin: 48px auto;
+  padding: 20px;
 }
 
 /* GMAIL LOGO & TEXT */
 .gmail-logo{
-    height: 70px;
-    vertical-align: middle;
-    margin-right: 10px;
+  height: 70px;
+  vertical-align: middle;
+  margin-right: 10px;
 }
 
 header{
-    display: inline-block;
-    line-height: 48px;
-    font-size: 14px;
-    font-weight: bold;
-    text-transform: uppercase;
+  display: inline-block;
+  line-height: 48px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 hr{
-    border: 2px solid #9984D4;
-    margin-bottom: 20px;
+  border: 2px solid #9984D4;
+  margin-bottom: 20px;
 }
 
 input{
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 /* FIRST SECTION MESSAGE */
 h2{
-    font-weight: lighter;
-    font-size: 15px;
+  font-weight: lighter;
+  font-size: 15px;
 }
 
 .number{
-    display: inline-block;
-    background-color: #9984D4;
-    border-radius: 50%;
-    color: white;
-    margin: 8px;
-    padding: 10px;
+  display: inline-block;
+  background-color: #9984D4;
+  border-radius: 50%;
+  color: white;
+  margin: 8px;
+  padding: 10px;
 }
 
 /* MESSAGES LIST SECTION */
 .gray-message-list-1{
-    background-color: lightgray;
+  background-color: lightgray;
 }
 
 
 /* LAST SECTION */
 .last-section{
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 .footer-section{
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 80px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 80px;
 }
